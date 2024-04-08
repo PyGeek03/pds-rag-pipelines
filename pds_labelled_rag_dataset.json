@@ -1,0 +1,319 @@
+{
+    "examples": [
+        {
+            "query": "What condition must be met for a vehicle owner to receive a lifetime guarantee on the workmanship of repairs authorized and paid for by NRMA?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Inspections\nLifetime guarantee on authorised repairs If we authorise and pay for a repairer to fix your vehicle, then we provide a lifetime guarantee for the workmanship of those repairs as long as you are the owner of your vehicle."
+            ],
+            "reference_answer": "The condition that must be met for a vehicle owner to receive a lifetime guarantee on the workmanship of repairs authorized and paid for by NRMA is that the owner must remain the owner of the vehicle. The guarantee lasts for as long as they own the vehicle.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain the extent of coverage provided by Allianz for loss or damage to your vehicle in the event of an accident caused by the driver of an uninsured vehicle, including the maximum amount covered and any additional services included in the benefit.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Legal liability > Other bene\ufb01ts we will pay > (This benefit is applicable to Third Party Insurance and Third Party Fire & Theft Insurance only)\nWe will cover your vehicle for loss or damage arising from an accident caused by the driver of an uninsured vehicle up to a maximum amount of $5,000 for any one incident including the cost of protection, removal and towing."
+            ],
+            "reference_answer": "Based on the provided context information, Allianz offers coverage for loss or damage to your vehicle if the accident is caused by the driver of an uninsured vehicle. The extent of this coverage includes:\n\n1. Maximum Coverage Amount: The insurance will cover the loss or damage up to a maximum amount of $5,000. This is the limit for any one incident, meaning that for each separate accident, the coverage will not exceed this amount.\n\n2. Additional Services Included: The benefit also covers the cost of protection, removal, and towing of the vehicle. This implies that if your vehicle needs to be protected from further damage, removed from the scene of the accident, or towed to a repair shop or another location, these costs are included within the coverage.\n\nIt is important to note that this benefit is applicable only to policies that include Third Party Insurance and Third Party Fire & Theft Insurance. It does not apply to other types of insurance policies that Allianz may offer.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the Allianz Comprehensive insurance policy, what is the condition for the insurer to cover the cost of a rental car if the insured needs to re-key or re-code their locks?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Comprehensive insurance > Other bene\ufb01ts we will pay > Lock re-keying/re-coding\nWe will arrange a rental car for you.\nIf you arrange your own rental car without our consent, we are not obliged to pay for the rental car you arranged."
+            ],
+            "reference_answer": "According to the Allianz Comprehensive insurance policy, the condition for the insurer to cover the cost of a rental car if the insured needs to re-key or re-code their locks is that the insurer must arrange the rental car. If the insured arranges their own rental car without the consent of the insurer, Allianz is not obliged to pay for the rental car that was arranged by the insured.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the NRMA Insurance policy, under what circumstances can a policyholder choose their own repairer for vehicle repairs?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Insurance 3\nHowever, you may choose your own repairer to fix your vehicle if: you have added the \u2018Any Repairer\u2019 option \u2013 see page 39, or \u2022 your vehicle is a motorcycle."
+            ],
+            "reference_answer": "According to the NRMA Insurance policy, a policyholder can choose their own repairer for vehicle repairs if they have added the 'Any Repairer' option to their policy or if their vehicle is a motorcycle.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "What types of incidents are covered under the Comprehensive insurance section for motor vehicles as mentioned in the Allianz Motor Insurance policy, and where in the document can you find more detailed information about the coverage, including Other benefits and Optional benefits?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Motor Insurance > Motor Insurance \u2013 a snapshot > cover we can offer\n\u2013 Accidental loss of (including theft) or accidental damage to your vehicle as listed under the Comprehensive insurance section including Other benefits and Optional benefits (where applicable).\nSee page 18."
+            ],
+            "reference_answer": "Based on the provided context information, the Comprehensive insurance section of the Allianz Motor Insurance policy covers accidental loss of (including theft) or accidental damage to your vehicle. For more detailed information about the coverage, including Other benefits and Optional benefits, you should refer to page 18 of the document.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain how the \"Lock re-keying/re-coding\" benefit under the Allianz Third Party Fire and Theft insurance policy can assist a policyholder in the event of a theft.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Third Party Fire and Theft > Other bene\ufb01ts we will pay > Lock re-keying/re-coding\nStaying mobile following theft"
+            ],
+            "reference_answer": "Based on the context information provided, the \"Lock re-keying/re-coding\" benefit under the Allianz Third Party Fire and Theft insurance policy likely assists a policyholder in the event of a theft by covering the costs associated with changing the locks or re-coding the locking mechanism of their vehicle. If a thief steals the keys or gains access to the key codes, the security of the vehicle is compromised. This benefit would enable the policyholder to have their vehicle's locks re-keyed or re-coded, which means altering the internal mechanisms of the locks or the electronic codes so that the old keys or codes no longer work, and new ones are needed to unlock and start the vehicle. This helps to restore the security of the vehicle and protect it from potential future thefts using the old keys or codes.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain how Allianz determines the initial No Claim Bonus (NCB) or rating level when a customer takes out a new policy, according to the provided agreement terms.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Our agreement with you > Your No Claim Bonus (NCB) or Rating level\nWhen you first take out each policy, we calculate the NCB or rating level based on:\n\u2022 the NCB or rating level you held with your previous insurer; or"
+            ],
+            "reference_answer": "According to the provided agreement terms from Allianz, when a customer takes out a new policy, the initial No Claim Bonus (NCB) or rating level is determined based on the NCB or rating level that the customer held with their previous insurer. This means that Allianz will look at the customer's history with their former insurance company to assess the level of NCB or the rating they had earned and use that as a starting point for their new policy with Allianz.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "In the event of a total loss claim under a Comprehensive insurance policy with Allianz, what two deductions are made from the market or agreed value before the claim is paid out?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Making a claim > Pay your claim as a total loss\nFor Comprehensive insurance we pay the market or agreed value (as applicable) less:\n\u2022 the excess; and\n\u2022 any unpaid premium."
+            ],
+            "reference_answer": "In the event of a total loss claim under a Comprehensive insurance policy with Allianz, the two deductions made from the market or agreed value before the claim is paid out are:\n\n1. The excess\n2. Any unpaid premium",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain the concept of \"Additional cover for supplementary bodily injury (legal liability)\" as offered by Allianz, and discuss its significance in a scenario where the recoverable amount from a legal liability claim is zero.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Legal liability > Additional cover for supplementary bodily injury (legal liability)\neven if the amount that may be recovered is nil."
+            ],
+            "reference_answer": "The concept of \"Additional cover for supplementary bodily injury (legal liability)\" as offered by Allianz likely refers to an insurance policy provision that provides extra coverage for bodily injury claims that go beyond the standard legal liability coverage. This additional cover would be in the context of third-party claims where an insured party is legally liable for injuries sustained by another person.\n\nIn a typical legal liability scenario, if someone is injured due to the insured's actions or on their property, the injured party may file a claim against the insured's liability insurance to cover medical expenses, lost wages, and other damages. The standard liability coverage would respond to such claims up to the limits specified in the policy.\n\nThe \"additional cover for supplementary bodily injury\" would come into play when the standard liability limits are exhausted, or when specific types of injuries or circumstances are not fully covered under the standard policy. This additional cover would provide a safety net for the insured, offering further financial protection against bodily injury claims.\n\nDiscussing its significance in a scenario where the recoverable amount from a legal liability claim is zero, this provision becomes particularly important. There could be situations where, despite the insured being legally liable for an injury, the standard policy does not provide payment due to various reasons such as policy exclusions, limits being reached, or conditions not being met. In such cases, without additional coverage, the insured would have to pay out of pocket for any damages or legal costs.\n\nHowever, with the \"Additional cover for supplementary bodily injury,\" the insured would still have protection. This means that even if the standard policy does not pay out (i.e., the recoverable amount is nil), the additional coverage could cover the costs, ensuring that the insured is not financially burdened by the incident. This can be a significant benefit, providing peace of mind and financial security to the policyholder, knowing that they have a broader safety net in place for potential legal liabilities.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Based on the context information provided, here is a sample question for an upcoming quiz/examination:",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Comprehensive\nGeneral exclusions also apply.\nIf you don\u2019t meet your responsibilities you may put your claim or cover at risk \u2013 see Section 7.\nHow we settle a claim is set out in Section 8.\nOther benefits Baby capsules and child seats Tools of trade Up to the agreed value We will arrange for an NRMA Partner Repairer to fix your vehicle Up to $500 each Up to $800 Up to $1,500 Up to $100 a day for a hire car and up to $3,000 for any hire car excess and bond If we agree to pay your claim as a total loss, you may choose to replace your vehicle with a new one Up to $1,000 for certain items The reasonable costs to store your vehicle 14 days cover when you change vehicles The reasonable cost to tow your vehicle We can arrange to move your vehicle to a repairer and back again You don\u2019t need to pay your excess when we repair or replace your windscreen, sunroof or window glass You can choose your own repairer to fix your vehicle Up to $20 million Loss or damage to your vehicle We cover your vehicle when the incidents set out in this section happen."
+            ],
+            "reference_answer": "Based on the context information provided, here is a sample question for an upcoming quiz/examination:\n\nWhat is the maximum amount covered for tools of trade under the NRMA Comprehensive car insurance policy? \n\nA) $500\nB) $800\nC) $1,500\nD) $3,000\n\nCorrect Answer: B) $800",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to Section 7 of the NRMA Comprehensive insurance policy, what are some of the responsibilities that a policyholder must meet to ensure their claim or cover is not at risk?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Comprehensive\nGeneral exclusions also apply.\nIf you don\u2019t meet your responsibilities you may put your claim or cover at risk \u2013 see Section 7.\nHow we settle a claim is set out in Section 8.\nOther benefits Baby capsules and child seats Tools of trade Up to the agreed value We will arrange for an NRMA Partner Repairer to fix your vehicle Up to $500 each Up to $800 Up to $1,500 Up to $100 a day for a hire car and up to $3,000 for any hire car excess and bond If we agree to pay your claim as a total loss, you may choose to replace your vehicle with a new one Up to $1,000 for certain items The reasonable costs to store your vehicle 14 days cover when you change vehicles The reasonable cost to tow your vehicle We can arrange to move your vehicle to a repairer and back again You don\u2019t need to pay your excess when we repair or replace your windscreen, sunroof or window glass You can choose your own repairer to fix your vehicle Up to $20 million Loss or damage to your vehicle We cover your vehicle when the incidents set out in this section happen."
+            ],
+            "reference_answer": "The provided context information does not specify the exact responsibilities that a policyholder must meet according to Section 7 of the NRMA Comprehensive insurance policy. It only mentions that if the policyholder does not meet their responsibilities, they may put their claim or cover at risk. To find out the specific responsibilities, one would need to refer directly to Section 7 of the policy document.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain the circumstances under which Allianz's Third Party Fire and Theft insurance policy would cover the costs of lock re-keying or re-coding.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Third Party Fire and Theft > Other bene\ufb01ts we will pay > Lock re-keying/re-coding\nwhichever happens \ufb01rst."
+            ],
+            "reference_answer": "Based on the context provided, Allianz's Third Party Fire and Theft insurance policy would cover the costs of lock re-keying or re-coding under the \"Other benefits we will pay\" section. However, the specific circumstances under which this coverage applies are not detailed in the context information given. Typically, such coverage might be provided if the keys are stolen or lost, or if there is an attempted theft or actual theft of the vehicle, but without the full policy details or terms and conditions, it is not possible to state definitively when the coverage would apply. To get an accurate understanding of the circumstances, one would need to review the full policy document or contact Allianz directly for clarification.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "What is the significance of the code \"SPDS007 10/23\" in the context of NRMA Insurance, and how does it reflect the company's commitment to protecting Australians and their valued possessions over the past 90 years?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > SPDS007 10/23\nAt NRMA Insurance, we have been protecting Australians and the things they value for over 90 years.\nOver that time, we\u2019ve built a wealth of invaluable knowledge and experience.\nThis helps us provide you with great customer service and quality cover, to better protect the things you value."
+            ],
+            "reference_answer": "The code \"SPDS007 10/23\" in the context provided does not directly convey information about NRMA Insurance's commitment to protecting Australians and their valued possessions over the past 90 years. Without additional context, it is difficult to determine the exact significance of this code. It could potentially be a reference to a specific document, policy, or internal code relevant to NRMA Insurance's operations or services. The numbers \"10/23\" might indicate a date (October 2023) or a version number of a document or policy.\n\nHowever, the mention of this code in the context of NRMA Insurance's statement about their history and service could imply that it is part of their system of organizing and managing customer policies or information. This would reflect the company's commitment to providing great customer service and quality cover, as a well-organized system helps in efficiently protecting the things customers value and in maintaining a high standard of service over a long period, such as the 90 years of experience NRMA Insurance has.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "What are the potential consequences outlined by Allianz if a policyholder fails to take reasonable care not to make a misrepresentation in their agreement?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Our agreement with you > Your Duty to take reasonable care not to make a misrepresentation\nIf you do not meet the above Duty, we may reject or not fully pay your claim and/or cancel your policy.\nIf the misrepresentation was deliberate or reckless, this is an act of fraud, and we may treat your policy as if it never existed."
+            ],
+            "reference_answer": "The potential consequences outlined by Allianz for a policyholder who fails to take reasonable care not to make a misrepresentation in their agreement are:\n\n1. Allianz may reject or not fully pay the policyholder's claim.\n2. Allianz may cancel the policyholder's policy.\n3. If the misrepresentation was deliberate or reckless, Allianz may treat the policy as if it never existed, which is considered an act of fraud.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Under what conditions is a policyholder exempt from paying any excess on a claim according to the NRMA Excesses guidelines?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Excesses\nWhen you don\u2019t need to pay any excess You don\u2019t need to pay any excess if: you make a claim for an incident that we are satisfied was not your fault or the fault of any other person we cover, and you can give us the name and residential address of the at fault driver."
+            ],
+            "reference_answer": "According to the NRMA Excesses guidelines, a policyholder is exempt from paying any excess on a claim if the following conditions are met:\n\n1. The claim is for an incident that NRMA is satisfied was not the fault of the policyholder or any other person covered by the policy.\n2. The policyholder can provide NRMA with the name and residential address of the at-fault driver.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the Allianz Comprehensive insurance policy, what is the maximum amount that will be paid for towing a trailer or caravan in the event of an incident?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Comprehensive insurance > Other bene\ufb01ts we will pay > Towing\nWe will pay the lesser of $2,000 or the market value of the trailer or caravan for any one incident."
+            ],
+            "reference_answer": "According to the Allianz Comprehensive insurance policy, the maximum amount that will be paid for towing a trailer or caravan in the event of an incident is the lesser of $2,000 or the market value of the trailer or caravan.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "Explain the process by which NRMA determines the reasonable cost for vehicle repairs, including the factors they may consider.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > The most we pay\nOnce you\u2019ve chosen a repairer, we will: choose the most suitable repair method for the type of damage to your vehicle and decide whether to authorise and pay for the reasonable cost to repair your vehicle, or decide whether to pay you the reasonable cost to repair your vehicle as determined by us.\nIn determining the reasonable cost, we may consider several factors, including quotes from NRMA Partner Repairers, our nominated repair methods for the type of damage to your vehicle and reports from our assessors."
+            ],
+            "reference_answer": "Based on the provided context information, NRMA determines the reasonable cost for vehicle repairs through a process that involves the following steps:\n\n1. **Choice of Repairer**: Once you have chosen a repairer for your vehicle, NRMA steps in to assess the situation.\n\n2. **Assessment of Damage**: NRMA evaluates the type of damage to your vehicle to choose the most suitable repair method. This implies that they consider the nature and extent of the damage when determining the repair approach.\n\n3. **Decision on Authorization and Payment**: NRMA then makes a decision on whether to authorize and pay for the repair costs or to pay you the determined reasonable cost for the repairs.\n\n4. **Consideration of Factors**: In determining what constitutes a reasonable cost, NRMA considers several factors, which include:\n   - **Quotes from NRMA Partner Repairers**: They look at the cost estimates provided by repairers who are partnered with NRMA, which likely offer competitive pricing and are trusted by NRMA for their service quality.\n   - **Nominated Repair Methods**: They take into account the repair methods they have nominated for the type of damage your vehicle has sustained. This suggests that NRMA has predefined repair strategies for different types of damage, which can influence the cost.\n   - **Assessor Reports**: Reports from NRMA's assessors are also factored into the cost determination. These assessors likely inspect the damage and provide professional evaluations on the necessary repairs and associated costs.\n\nThrough this process, NRMA ensures that the cost they agree to pay for or reimburse is based on a thorough consideration of relevant factors, aiming to reflect a fair and reasonable repair cost for the damage incurred.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the NRMA policy, what are the two obligations a vehicle owner has when requested by the NRMA in relation to inspections and obtaining repair quotes?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "NRMA > Sanctions\nInspections and quotes If we ask you, you must: let us or our representatives inspect your vehicle at any reasonable time, at a place we choose allow us to get quotations from any repairer or supplier."
+            ],
+            "reference_answer": "According to the NRMA policy, when requested by the NRMA, a vehicle owner has two obligations in relation to inspections and obtaining repair quotes:\n\n1. The vehicle owner must allow NRMA or their representatives to inspect the vehicle at any reasonable time, at a place chosen by the NRMA.\n2. The vehicle owner must allow the NRMA to obtain quotations from any repairer or supplier.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the Allianz insurance policy, list three specific circumstances related to radioactivity or nuclear materials under which a claim would not be paid.",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > When we will not pay your claim > Radio activity or nuclear materials\nAny:\n\u2022 nuclear fuel or nuclear waste;\n\u2022 combustion of nuclear fuel (including any self-sustained process of nuclear \ufb01ssion); or\n\u2022 nuclear weapons material."
+            ],
+            "reference_answer": "According to the Allianz insurance policy, the three specific circumstances related to radioactivity or nuclear materials under which a claim would not be paid are:\n\n1. Involvement of nuclear fuel or nuclear waste.\n2. Combustion of nuclear fuel, including any self-sustained process of nuclear fission.\n3. Involvement of nuclear weapons material.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the agreement with Allianz, what is your duty regarding the accuracy of the information you provide, and what should you do if you find their questions or information unclear?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Our agreement with you > Your Duty to take reasonable care not to make a misrepresentation\nIf our information or questions are unclear, you can contact us via the details on the back cover or visit www.einsure.com.au/misrepresentation 15Text 086 1221_D1.indd"
+            ],
+            "reference_answer": "According to the agreement with Allianz, your duty is to take reasonable care not to make a misrepresentation regarding the information you provide. If you find their questions or information unclear, you should contact Allianz using the details provided on the back cover or visit their website at www.einsure.com.au/misrepresentation for clarification.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "According to the Allianz Comprehensive insurance policy, under the 'Other benefits we will pay' section for 'Lock re-keying/re-coding', what are the conditions that determine the duration for which a rental or loan car or daily travel allowance is provided, and what is the maximum number of days this benefit is available?",
+            "query_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "Allianz > Comprehensive insurance > Other bene\ufb01ts we will pay > Lock re-keying/re-coding\nWe will provide the rental or loan car or daily travel allowance benefit for a maximum of 30 days or until:\n\u2022 the repairs have been completed; or\n\u2022 we settle your claim by paying you the agreed value or market value or replace the vehicle after a total loss,"
+            ],
+            "reference_answer": "According to the Allianz Comprehensive insurance policy, under the 'Other benefits we will pay' section for 'Lock re-keying/re-coding', the duration for which a rental or loan car or daily travel allowance is provided is determined by either of the following conditions:\n\n1. The repairs have been completed.\n2. The claim is settled by Allianz either by paying the agreed value or market value, or by replacing the vehicle after a total loss.\n\nThe maximum number of days this benefit is available is 30 days.",
+            "reference_answer_by": {
+                "model_name": "gpt-4-1106-preview",
+                "type": "ai"
+            }
+        }
+    ]
+}
